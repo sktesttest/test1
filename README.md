@@ -6,3 +6,4 @@ with tortoise
 now I've changed it on the GIT editor
 now with notepad ++
 again
+from the other copy
